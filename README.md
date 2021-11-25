@@ -1,3 +1,2 @@
-# Kokoa Cleon 2020 Update
+# Kokoa Clone
 
-HTML & CSS are so much fun!
